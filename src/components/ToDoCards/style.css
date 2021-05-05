@@ -1,0 +1,22 @@
+#ToDoCardsText{
+    position: absolute;
+    left: 5.67%;
+    right: 5.67%;
+    top: 13.79%;
+    bottom: 51.72%;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.ToDoCards{
+    width: 282px;
+    margin: 12px;
+}
+
+.loadingBar {
+    width: 90px;
+    height: 8px;
+    margin: 43px auto 20px 16px;
+}

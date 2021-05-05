@@ -1,0 +1,30 @@
+#titleApp{
+    position: initial;
+    width: 174px;
+    height: 24px;
+    left: 118px;
+    top: 20px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 4vh;
+}
+
+.NavBar {
+    display: block;
+    position: absolute;
+    width: 68px;
+    height: 1027px;
+    left: 0px;
+    top: 0px;
+    background: #2F3136;
+}
+
+.container {
+    display: block;
+    margin: 20px 15vh auto;
+}
+
+.cardsContainer {
+}

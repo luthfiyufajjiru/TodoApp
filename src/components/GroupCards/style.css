@@ -1,0 +1,14 @@
+.groupCards{
+    border-radius: 4px;
+    width: 306px;
+}
+
+.cardTitle{
+    margin: 16px;
+    font-size: 12px;
+}
+
+#cardTitleHeader {
+    align-items: center;
+    margin-bottom: 5px;
+}
