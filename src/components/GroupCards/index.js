@@ -3,7 +3,7 @@ import { Card } from "react-bootstrap"
 import ToDoCards from "../../components/ToDoCards"
 import './style.css'
 
-class GroupCards extends React.Component {
+class GroupCards extends Component {
     constructor(props) {
         super(props)
         this.state = {
