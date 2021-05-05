@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import './style.css'
 import NavBar from "./components/NavBar"
-import GroupCards from "./components/GroupCards"
+import CardsContainer from "./components/CardsContainer"
 
 function App() {
     return (
@@ -12,7 +12,7 @@ function App() {
             <div className="container">
                 <h1 id="titleApp">Product Roadmap</h1>
                 <div className="cardsContainer">
-                    <GroupCards color="0, 140, 255"></GroupCards>
+                    <CardsContainer></CardsContainer>
                 </div>
                 
             </div>
