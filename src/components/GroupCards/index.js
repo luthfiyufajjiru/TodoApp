@@ -32,7 +32,7 @@ class GroupCards extends Component {
                         <Card id="cardTitleHeader" style={this.state.groupTitle}> { this.state.title } </Card>
                         January - March
                     </Card.Title>
-                    <ToDoCards title= {this.props.tilteItems} />
+                    <ToDoCards title= {this.props.title} />
                 </Card> : 
                 <Card className='groupCards' style={this.state.groupCards}>
                     <Card.Title className="cardTitle">
